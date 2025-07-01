@@ -21,7 +21,7 @@ A Flutter application developed for the Linked Gates technical assignment. This 
 |----------------|------------------------------------|
 | `flutter_bloc`  | State management using BLoC       |
 | `shimmer`       | Display shimmer loading UI        |
-| `http`          | API calls                         |
+| `dio`          | API calls                         |
 | `equatable`     | Value equality for BLoC states    |
 
 ---
